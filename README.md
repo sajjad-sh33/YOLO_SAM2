@@ -1,5 +1,4 @@
-# SELF-PROMPTING POLYP SEGMENTATION IN COLONOSCOPY USING HYBRID YOLO-SAM 2 MODEL
-
+# Self-Prompting Polyp Segmentation in Colonoscopy Using Hybrid YOLO-SAM 2 Model
 <p align="center">
     <img src="imgs/Model.png"/> <br />
 </p>
