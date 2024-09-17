@@ -1,0 +1,8 @@
+path: './polyp_gen'
+train: 'train/images/'
+val: 'valid/images/'
+
+
+# class names
+names:
+  0: 'polyp'
