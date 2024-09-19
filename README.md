@@ -30,6 +30,7 @@ python Creat_YAML.py --dataset 'Kvasir'
 yolo task=detect mode=train model=yolov8l.pt imgsz=640 data=./YAML/Kvasir.yaml epochs=50 batch=0.90 name=Kvasir 
 ```
 
+You can find the fine-tuned checkpoints under **./YOLO_Checkpoints**. For the SUN_SEG dataset use this [link](https://drive.google.com/file/d/1xgibNKIcDCzpXLjtFRn9HZwWDvqgReAT/view?usp=drive_link).
 ## Test
 
 ```bash
