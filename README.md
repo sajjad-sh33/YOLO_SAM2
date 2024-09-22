@@ -1,4 +1,10 @@
 # Self-Prompting Polyp Segmentation in Colonoscopy Using Hybrid YOLO-SAM 2 Model
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/self-prompting-polyp-segmentation-in/video-polyp-segmentation-on-sun-seg-easy)](https://paperswithcode.com/sota/video-polyp-segmentation-on-sun-seg-easy?p=self-prompting-polyp-segmentation-in)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/self-prompting-polyp-segmentation-in/video-polyp-segmentation-on-sun-seg-hard)](https://paperswithcode.com/sota/video-polyp-segmentation-on-sun-seg-hard?p=self-prompting-polyp-segmentation-in)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/self-prompting-polyp-segmentation-in/polyp-segmentation-on-polypgen)](https://paperswithcode.com/sota/polyp-segmentation-on-polypgen?p=self-prompting-polyp-segmentation-in)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/self-prompting-polyp-segmentation-in/medical-image-segmentation-on-cvc-clinicdb)](https://paperswithcode.com/sota/medical-image-segmentation-on-cvc-clinicdb?p=self-prompting-polyp-segmentation-in)
+
 <p align="center">
     <img src="imgs/Model.png"/> <br />
 </p>
